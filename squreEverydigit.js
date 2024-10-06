@@ -1,9 +1,9 @@
 function squareDigits(number){
 return (
     number.toString()
-     .split('')
-     .map(ele => ele * ele)
-     .join('')
+    .split('')
+     .map(ele => ele *ele)
+  .join('')
 )
 }
 console.log(squareDigits(2112)); // 4114

@@ -1,1 +1,2 @@
-console.log(getMiddle('testingproblre'));
+ .map(ele => ele * ele)
+    //  .join('')
