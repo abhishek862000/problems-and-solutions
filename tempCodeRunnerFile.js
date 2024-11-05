@@ -1,2 +1,1 @@
- .map(ele => ele * ele)
-    //  .join('')
+const maximumWealth = accounts => {
