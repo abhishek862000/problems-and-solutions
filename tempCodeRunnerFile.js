@@ -1,1 +1,1 @@
-const maximumWealth = accounts => {
+wordFrequency[word] += 1;
