@@ -1,0 +1,25 @@
+.container {
+  display: grid;
+  height: 600px;
+  grid-template-rows:repeat(2,80px);
+  grid-template-columns: repeat(2,80px);
+    justify-content:end ;
+    align-content:start ;
+}
+
+.item-1 {
+  background-color: aqua;
+}
+.item-2 {
+    background-color: rgb(255, 132, 0);
+  }
+  .item-3 {
+    background-color: rgb(143, 154, 48);
+  }
+  .item-4{
+    background-color: rgba(48, 154, 67, 0.644);
+  }
+  .item{
+    height: 45px;
+    width:85px
+  }

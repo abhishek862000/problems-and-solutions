@@ -1,0 +1,27 @@
+.container {
+  display: flex;
+  align-items:flex-start;
+  
+  height: 100vh;
+   gap:1em;
+  
+
+}
+
+.item-1 {
+  background-color: aqua;
+  
+}
+.item-2 {
+    background-color: rgb(255, 132, 0);
+  }
+  .item-3 {
+    background-color: rgb(143, 154, 48);
+  }
+  .item-4{
+    background-color: rgba(48, 154, 67, 0.644);
+  }
+  .item{
+    height: 45px;
+    width:85px
+  }
