@@ -14,3 +14,4 @@ return sortedArray[0].join(' ')
 };
 
 console.log(objectSort("apple"));
+console.log(objectSort("REversae"));

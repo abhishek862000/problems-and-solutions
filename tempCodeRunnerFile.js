@@ -1,1 +1,1 @@
-wordFrequency[word] += 1;
+scriptigjava
