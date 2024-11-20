@@ -9,3 +9,4 @@ else
 }
 }
 console.log(feb(4))
+console.log(feb(7))
