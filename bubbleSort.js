@@ -14,5 +14,6 @@ for(var i=0;i<=arr.length-1;i++){
 } while (swapped);
 }
 const arr=[121,22,323,3,4,5,90]
+
 bubbleSort(arr)
 console.log(arr)
