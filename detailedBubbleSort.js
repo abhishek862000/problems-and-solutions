@@ -25,6 +25,9 @@ function detailedBubbleSort(arr) {
 
 const arr = [5, 10, 8, 100, 4];
 const a = [1, 2, 3, 4];
+const b = ["banana", "apple", "cherry", "date"];
 
 console.log("Number of iterations for arr:", detailedBubbleSort(arr));
 console.log("Number of iterations for a:", detailedBubbleSort(a));
+console.log("Number of iterations for a:", detailedBubbleSort(b));
+
